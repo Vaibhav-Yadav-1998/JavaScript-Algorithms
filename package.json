@@ -4,7 +4,9 @@
   "description": "a collection of javascript algorithms",
   "main": ".",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "sym-diff": "mocha ./test/sym-diff-test.js",
+    "cipher": "mocha ./test/caesar-cipher-test.js"
   },
   "repository": {
     "type": "git",

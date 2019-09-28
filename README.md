@@ -8,3 +8,4 @@ List of algorithms:
 - **Symmetric difference**
 - **String peeler**
 - **Diamond**
+- **Vowel counter**

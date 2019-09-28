@@ -5,9 +5,11 @@
   "main": ".",
   "scripts": {
     "test": "mocha",
-    "sym-diff": "mocha ./test/sym-diff-test.js",
-    "cipher": "mocha ./test/caesar-cipher-test.js",
-    "str-peeler": "mocha ./test/string-peeler-test.js"
+    "sym-diff-test": "mocha ./test/sym-diff-test.js",
+    "cipher-test": "mocha ./test/caesar-cipher-test.js",
+    "str-peeler-test": "mocha ./test/string-peeler-test.js",
+    "diamond-test": "mocha ./test/diamond-test.js",
+    "vowel-counter-test": "mocha ./test/vowel-counter-test.js"
   },
   "repository": {
     "type": "git",

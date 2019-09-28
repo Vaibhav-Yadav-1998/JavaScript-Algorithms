@@ -12,17 +12,20 @@ function diamond(num) {
   if (num % 2 === 0) {
     return null;
   } else {
+    const result = [];
     for (let i = 1; i <= num; i += 2) {
-      console.log(rows(num, i));
+      result.push(rows(num, i));
     }
 
     for (let i = num; i > 0; i -= 2) {
       if (num === i) {
         continue;
       }
-      console.log(rows(num, i));
+      result.push(rows(num, i));
     }
+
+    return result.join("\n");
   }
 }
 
-diamond(11);
+module.exports = diamond;

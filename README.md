@@ -12,3 +12,4 @@ List of algorithms:
 - **Palindrome**
 - **Two sum**
 - **Leap year**
+- **Anagram**

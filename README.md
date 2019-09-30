@@ -9,3 +9,4 @@ List of algorithms:
 - **String peeler**
 - **Diamond**
 - **Vowel counter**
+- **Palindrome**

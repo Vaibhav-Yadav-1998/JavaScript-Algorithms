@@ -9,7 +9,8 @@
     "cipher-test": "mocha ./test/caesar-cipher-test.js",
     "str-peeler-test": "mocha ./test/string-peeler-test.js",
     "diamond-test": "mocha ./test/diamond-test.js",
-    "vowel-counter-test": "mocha ./test/vowel-counter-test.js"
+    "vowel-counter-test": "mocha ./test/vowel-counter-test.js",
+    "palindrome-test": "mocha ./test/palindrome-test.js"
   },
   "repository": {
     "type": "git",

@@ -11,3 +11,4 @@ List of algorithms:
 - **Vowel counter**
 - **Palindrome**
 - **Two sum**
+- **Leap year**

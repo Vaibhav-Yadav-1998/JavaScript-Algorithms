@@ -10,3 +10,4 @@ List of algorithms:
 - **Diamond**
 - **Vowel counter**
 - **Palindrome**
+- **Two sum**

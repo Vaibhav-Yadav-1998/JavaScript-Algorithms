@@ -12,7 +12,8 @@
     "vowel-counter-test": "mocha ./test/vowel-counter-test.js",
     "palindrome-test": "mocha ./test/palindrome-test.js",
     "two-sum-test": "mocha ./test/two-sum-test.js",
-    "leap-year-test": "mocha ./test/leap-year-test.js"
+    "leap-year-test": "mocha ./test/leap-year-test.js",
+    "anagram-test": "mocha ./test/anagram-test.js"
   },
   "repository": {
     "type": "git",

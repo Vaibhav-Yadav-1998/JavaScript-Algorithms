@@ -13,6 +13,7 @@ List of algorithms:
 - **Two sum**
 - **Leap year**
 - **Anagram**
+- **No duplicate**
 
 ### Contributing Guide
 

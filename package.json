@@ -13,7 +13,8 @@
     "palindrome-test": "mocha ./test/palindrome-test.js",
     "two-sum-test": "mocha ./test/two-sum-test.js",
     "leap-year-test": "mocha ./test/leap-year-test.js",
-    "anagram-test": "mocha ./test/anagram-test.js"
+    "anagram-test": "mocha ./test/anagram-test.js",
+    "no-duplicate-test": "mocha ./test/no-duplicate-test.js"
   },
   "repository": {
     "type": "git",

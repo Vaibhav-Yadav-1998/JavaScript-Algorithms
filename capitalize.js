@@ -19,6 +19,10 @@ source: edabit.com
 function capitalize(arr) {
   // Do not change anything above this line
   // Write your code here
+  var res = arr.map(function(items) {
+    return items.charAt(0).toUpperCase() + items.toLowerCase().slice(1);
+  })
+  return res;
 }
 // Do not change anything below this line
 

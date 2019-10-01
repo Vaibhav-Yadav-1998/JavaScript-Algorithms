@@ -14,7 +14,8 @@
     "two-sum-test": "mocha ./test/two-sum-test.js",
     "leap-year-test": "mocha ./test/leap-year-test.js",
     "anagram-test": "mocha ./test/anagram-test.js",
-    "no-duplicate-test": "mocha ./test/no-duplicate-test.js"
+    "no-duplicate-test": "mocha ./test/no-duplicate-test.js",
+    "capitalize-test": "mocha ./test/capitalize-test.js"
   },
   "repository": {
     "type": "git",

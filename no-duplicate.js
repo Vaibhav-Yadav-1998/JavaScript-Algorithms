@@ -26,6 +26,13 @@ source: eadabit.com
 function noDuplicate(arr) {
   // Do not change anything above this line.
   // Write your code here.
+  let newSet = new Set(arr);
+  let arr_aux = []
+  newSet.forEach(el=>{
+    arr_aux.push(el)
+  })
+  return arr_aux;
+
 }
 // Do not change anything below this line.
 

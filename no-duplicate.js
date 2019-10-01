@@ -26,6 +26,7 @@ source: eadabit.com
 function noDuplicate(arr) {
   // Do not change anything above this line.
   // Write your code here.
+  return [...new Set(arr)];
 }
 // Do not change anything below this line.
 

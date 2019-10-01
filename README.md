@@ -14,6 +14,7 @@ List of algorithms:
 - **Leap year**
 - **Anagram**
 - **No duplicate**
+- **Capitalize**
 
 ### Contributing Guide
 

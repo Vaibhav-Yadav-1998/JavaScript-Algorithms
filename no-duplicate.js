@@ -9,11 +9,11 @@ A set is a collection of unique items. A set can be formed from an array from re
 Create a function that transforms an array into a set.
 
 Examples
-set([1, 3, 3, 5, 5]) ➞ [1, 3, 5]
+noDuplicate([1, 3, 3, 5, 5]) ➞ [1, 3, 5]
 
-set([4, 4, 4, 4]) ➞ [4]
+noDuplicate([4, 4, 4, 4]) ➞ [4]
 
-set([5, 7, 8, 9, 10, 15]) ➞ [5, 7, 8, 9, 10, 15]
+noDuplicate([5, 7, 8, 9, 10, 15]) ➞ [5, 7, 8, 9, 10, 15]
 
 Notes
 Note: For this question, output an array, not a set. These are two distinctly different data structures in Javascript (although they can be converted from one to the other).

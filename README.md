@@ -13,3 +13,7 @@ List of algorithms:
 - **Two sum**
 - **Leap year**
 - **Anagram**
+
+### Contributing Guide
+
+- **Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) file before making any contribution**.

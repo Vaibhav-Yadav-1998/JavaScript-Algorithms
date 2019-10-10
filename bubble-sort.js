@@ -24,10 +24,10 @@ Third Pass:
 function bubbleSort(arr) {
   const sorted = [...arr];
 
-  for (let i = 0; i < sorted.length - 1 - i; i++) {
+  for (let i = 0; i < sorted.length - 1; i++) {
     let swapped = false;
 
-    for (let j = 0; i < sorted.length - 1 - j; j++) {
+    for (let j = 0; j < sorted.length - 1 - i; j++) {
       if (sorted[j] > sorted[j + 1]) {
         let temp = sorted[j];
         sorted[j] = sorted[j + 1];

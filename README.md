@@ -15,6 +15,7 @@ List of algorithms:
 - **Anagram**
 - **No duplicate**
 - **Capitalize**
+- **Bubble sort**
 
 ### Contributing Guide
 

@@ -16,7 +16,8 @@
     "anagram-test": "mocha ./test/anagram-test.js",
     "no-duplicate-test": "mocha ./test/no-duplicate-test.js",
     "capitalize-test": "mocha ./test/capitalize-test.js",
-    "bubble-sort-test": "mocha ./test/bubble-sort-test.js"
+    "bubble-sort-test": "mocha ./test/bubble-sort-test.js",
+    "camel-case-test": "mocha ./test/camel-case-test.js"
   },
   "repository": {
     "type": "git",

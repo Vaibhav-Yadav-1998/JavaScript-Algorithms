@@ -16,6 +16,7 @@ List of algorithms:
 - **No duplicate**
 - **Capitalize**
 - **Bubble sort**
+- **Camel case**
 
 ### Contributing Guide
 

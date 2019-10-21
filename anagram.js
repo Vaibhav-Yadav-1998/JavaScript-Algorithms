@@ -11,19 +11,20 @@ function isAnagram(str1, str2) {
   const map1 = {};
   const map2 = {};
 
-  for (let i of str1) {
-    if (!map1[i]) {
-      map1[i] = 1;
-    } else {
-      map1[i]++;
-    }
-  }
+  for (let i in str1) {
+    const str1Char = str1[i];
+    const str2Char = str2[i];
 
-  for (let i of str2) {
-    if (!map2[i]) {
-      map2[i] = 1;
+    if (!map1[str1Char]) {
+      map1[str1Char] = 1;
     } else {
-      map2[i]++;
+      map1[str1Char]++;
+    }
+    
+    if (!map2[str2Char]) {
+      map2[str2Char] = 1;
+    } else {
+      map2[str2Char]++;
     }
   }
 

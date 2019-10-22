@@ -17,6 +17,7 @@ List of algorithms:
 - **Capitalize**
 - **Bubble sort**
 - **Camel case**
+- **Friend list**
 
 ### Contributing Guide
 

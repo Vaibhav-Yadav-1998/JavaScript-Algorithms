@@ -18,7 +18,8 @@
     "capitalize-test": "mocha ./test/capitalize-test.js",
     "bubble-sort-test": "mocha ./test/bubble-sort-test.js",
     "camel-case-test": "mocha ./test/camel-case-test.js",
-    "friend-list-test": "mocha ./test/friend-list-test.js"
+    "friend-list-test": "mocha ./test/friend-list-test.js",
+    "missing-letter-test": "mocha ./test/missing-letter-test.js"
   },
   "repository": {
     "type": "git",

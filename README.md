@@ -18,6 +18,7 @@ List of algorithms:
 - **Bubble sort**
 - **Camel case**
 - **Friend list**
+- **Missing letter**
 
 ### Contributing Guide
 
